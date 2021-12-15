@@ -1,11 +1,13 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mosiur</h1>
-<h3 align="center">Non-technical graduate as a Front-End developer..</h3>
+<h3 align="center">Non-technical graduate as a Front-End-React developer..</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning on **[Javascript React]**
+- 🔭 I’m currently workin on **[Javascript React]**
+
+ - 🔭 I’m currently learning on **[Javascript React]**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
