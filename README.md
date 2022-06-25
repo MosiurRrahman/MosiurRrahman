@@ -20,8 +20,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://picresize.com/images/rsz_1download.png"/> </a>
- <a href="https://nextjs.org/" target="_blank"> <img src="https://www.universalfreecourse.com/uploads/images/2021/03/webp/image_750x_6060827196b32.webp"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+ <a href="https://nextjs.org/" target="_blank"> <img src="https://picresize.com/popup.html?images/rsz_1download.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
