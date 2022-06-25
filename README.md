@@ -1,6 +1,5 @@
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Non-technical graduate as a Front-End-React developer..</h3>
 
 ## 🙋‍♂️ About Me
